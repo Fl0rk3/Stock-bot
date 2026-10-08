@@ -1,0 +1,10 @@
+# Repozytorium prezentacyjne: dopuszczone tylko opis i obrazy.
+/*
+!/README.md
+!/.gitignore
+!/screenshots/
+/screenshots/*
+!/screenshots/*.png
+!/screenshots/*.jpg
+!/screenshots/*.jpeg
+!/screenshots/*.webp
